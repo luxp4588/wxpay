@@ -1,8 +1,5 @@
 # -*- coding=utf-8 -*-
 import decimal
-from .wechatpay import WechatPay
-from .utils import random_str
-
 
 class Wxpay:
     '''
